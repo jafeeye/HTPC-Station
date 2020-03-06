@@ -9,3 +9,4 @@ HTPC_SS
 |----- CrazyKTV 
 |----- AUTOPLAY
 |----- PotPlayer
+|----- PowerDVD
