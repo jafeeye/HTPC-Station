@@ -7,3 +7,5 @@ HTPC_SS
 |----- KODI V17.6
 |----- EmulationStation v2.10
 |----- CrazyKTV 
+|----- AUTOPLAY
+|----- PotPlayer
