@@ -10,3 +10,4 @@ HTPC_SS
 |----- AUTOPLAY
 |----- PotPlayer
 |----- PowerDVD
+|----- RetroArch
