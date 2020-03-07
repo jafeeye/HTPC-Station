@@ -11,3 +11,5 @@ HTPC_SS
 |----- PotPlayer
 |----- PowerDVD
 |----- RetroArch
+|----- WinDVD
+|----- Steam
