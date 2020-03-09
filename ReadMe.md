@@ -6,15 +6,16 @@ HTPC_SS 為家中建置娛樂系統
 HTPC_SS
   |----- CrazyKTV 
   |----- CustomUI '自訂圖示與背景資料夾
-  |----- EmulationStation 
+  |----- EmulationStation
+    |------ RetroArch
   |----- KODI 'HTPC 系統
     |------ Launcher.exe '-p指令KODI為免安裝版本
   |----- KODI.addon '此版本KODI所有相依性套件
   |----- Kodi.Default '此版本乾淨KODI，復原使用
   |----- Tools
-  |----- AUTOPLAY
-  |----- PotPlayer
-  |----- PowerDVD
-  |----- RetroArch
-  |----- WinDVD
-  |----- Steam
+相關套件
+ AUTOPLAY
+PotPlayer
+PowerDVD
+ WinDVD
+Steam
