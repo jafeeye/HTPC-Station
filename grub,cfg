@@ -1,7 +1,8 @@
 # Batocera 啟動 cfg
 set timeout 0
+# (hd0,3) 意思是linux 預設是磁碟0開始算起，分區從1開始算起
 menuentry BATOCERA{
 set root=(hd0,3)
-
-
+linux /boot/linux label=BATOCERA console=tty3 quiet loglevel=0 vt.global_cursor_default=0
+initrd /boot/initrd.gz
 }
