@@ -1,0 +1,7 @@
+# Batocera 啟動 cfg
+set timeout 0
+menuentry BATOCERA{
+set root=(hd0,3)
+
+
+}
