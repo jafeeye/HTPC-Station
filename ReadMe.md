@@ -1,4 +1,4 @@
-# HTPC_SS
+# HTPC-SS
 HTPC_SS 為家中建置娛樂系統
 - KODI 使用 tvOSX 面板
 ```
