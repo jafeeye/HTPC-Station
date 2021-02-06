@@ -1,5 +1,5 @@
-# HTPC-SS V1.5
-HTPC_SS 為家中建置娛樂系統
+# HTPCSS v1.5
+HTPCSS 為家中建置娛樂系統
 - KODI 使用 tvOSX 面板
 ```
 安裝列表
