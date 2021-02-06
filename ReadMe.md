@@ -15,21 +15,21 @@ HTPC_SS
   |----- Tools
 
 軟體列表
-● AUTOPLAY
-● PotPlayer
-● PowerDVD
-● WinDVD
-● Steam
-● KODI
-● EmulationStation
-● CrazyKTV
-● NeroMediaHome
-● EventGhost
-● Premise Home Control：
-● Launcher4kodi
-● Emby
-● Jellyfin
-● BigBox
-● Steam
-● Playnite
+  ● AUTOPLAY
+  ● PotPlayer
+  ● PowerDVD
+  ● WinDVD
+  ● Steam
+  ● KODI
+  ● EmulationStation
+  ● CrazyKTV
+  ● NeroMediaHome
+  ● EventGhost
+  ● Premise Home Control：
+  ● Launcher4kodi
+  ● Emby
+  ● Jellyfin
+  ● BigBox
+  ● Steam
+  ● Playnite
 
