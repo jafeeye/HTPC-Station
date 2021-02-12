@@ -33,7 +33,7 @@ HTPC_SS
   ● BigBox
   ● Steam
   ● Playnite
-
+```
 手把設定 (需停用數位簽章)
 Logietch F710 
 Playstation 3 Controller 
