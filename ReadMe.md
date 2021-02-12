@@ -35,5 +35,5 @@ HTPC_SS
   ● Playnite
 ```
 手把設定 (需停用數位簽章)
-Logietch F710 
-Playstation 3 Controller 
+- Logietch F710 
+- Playstation 3 Controller 
