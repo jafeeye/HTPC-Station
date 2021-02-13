@@ -50,3 +50,7 @@ HTPC_SS
 - ASUS電腦遙控器
 - HP 接收器與遙控器
 HDMI CEC
+
+音效/影像技術
+- Dolby Atoms for gaming
+- DTS
