@@ -36,7 +36,7 @@ HTPC_SS
 ```
 手把設定 (需停用數位簽章)
 - Logitech F710 
-- Playstation 3 Controller 
+- Playstation 3 Controller (安裝SCPTookit v1.7.277)
 
 藍牙設備
 - ASUS USB-BT21 []
