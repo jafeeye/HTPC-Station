@@ -47,5 +47,6 @@ HTPC_SS
 - UGREEN USB Bluetooth 4.0 Adapter [CSR8510]
 
 紅外線設備
-ASUS電腦遙控器
+- ASUS電腦遙控器
+- HP 接收器與遙控器
 HDMI CEC
