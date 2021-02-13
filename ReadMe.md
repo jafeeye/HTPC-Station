@@ -35,7 +35,7 @@ HTPC_SS
   ● Playnite
 ```
 手把設定 (需停用數位簽章)
-- Logitech F710 
+- Logitech F710 [Win10]
 - Playstation 3 Controller [穩定驅動:下載 SCPTookit v1.7.277](https://github.com/jafeeye/HTPCSS/blob/master/ScpToolkit_Setup.v1.7.277.16103-BETA.7z?raw=true)
 
 藍牙設備
