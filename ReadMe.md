@@ -1,7 +1,8 @@
-# HTPCSS (HTPC System Station) v1.5
+# HTPCSS (HTPC System Station) v1.6.1
 HTPCSS 為家中建置娛樂系統
 - KODI 使用 tvOSX 面板
 - 使用 Windows 7 SP1 X64 為底層作業系統
+- 使用 RetroBat v3.0
 ```
 安裝路徑
 HTPC_SS
