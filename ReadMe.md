@@ -56,3 +56,6 @@ HDMI CEC
 音效/影像技術
 - Dolby Atoms for gaming
 - DTS
+
+Windows 設定
+開機 Shell 置換 
