@@ -34,6 +34,8 @@ HTPC_SS
   ● BigBox
   ● Steam
   ● Playnite
+工具列表
+ ● MSI AfterBurner 調整風扇轉速
 ```
 手把設定 (需停用數位簽章)
 - Logitech F710 [Win10](https://raw.githubusercontent.com/jafeeye/HTPCSS/master/Logitech%20F710%20Driver(Win10).reg)
