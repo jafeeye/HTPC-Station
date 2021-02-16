@@ -57,6 +57,8 @@ HDMI CEC
 - Dolby Atoms for gaming
 - DTS
 
-Windows 設定
+HTPCSS 設定
 - 開機 Shell 置換
+- 桌面設定成全黑
 - Windows Boot 開機畫面置換
+- RetroBat 設定執行遊戲時隱藏
