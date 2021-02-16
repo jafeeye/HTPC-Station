@@ -58,4 +58,5 @@ HDMI CEC
 - DTS
 
 Windows 設定
-開機 Shell 置換 
+- 開機 Shell 置換
+- Windows Boot 開機畫面置換
