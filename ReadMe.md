@@ -62,6 +62,7 @@ HDMI CEC
 音效/影像技術
 - Dolby Atoms for gaming
 - DTS-X
+- UHF 麥克風
 
 HTPCSS 設定
 - 開機 Shell 置換
