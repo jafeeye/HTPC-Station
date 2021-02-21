@@ -51,7 +51,8 @@ HTPC_SS
 ```
 驅動版本
 
-
+[移除 SCP Tookit Driver](https://vigem.org/projects/ScpToolkit/ScpToolkit-Removal-Guide/)
+BetterJoy
 ```
 
 藍牙設備
