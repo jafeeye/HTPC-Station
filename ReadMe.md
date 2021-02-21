@@ -44,7 +44,7 @@ HTPC_SS
 手把設定 (需停用數位簽章)
 - 8Bitdo M30 Controller
 - Logitech F710 [Win10](https://raw.githubusercontent.com/jafeeye/HTPCSS/master/Logitech%20F710%20Driver(Win10).reg)
-- DualShock 3 Controller [穩定驅動下載：SCPTookit v1.7.277](https://github.com/jafeeye/HTPCSS/blob/master/ScpToolkit_Setup.v1.7.277.16103-BETA.7z?raw=true) [BthPS3](https://github.com/ViGEm/BthPS3)
+- DualShock 3 Controller 穩定驅動下載：[SCPTookit v1.7.277](https://github.com/jafeeye/HTPCSS/blob/master/ScpToolkit_Setup.v1.7.277.16103-BETA.7z?raw=true) [BthPS3](https://github.com/ViGEm/BthPS3)
 - DualShock 4 Controller
 - Xbox One S Controller
 - Wiimote Controller
