@@ -48,9 +48,11 @@ HTPC_SS
 - DualShock 4 Controller
 - Xbox One S Controller
 - Wiimote Controller
+
 ```
 驅動版本
-
+BthPS3：最新PS3無線驅動
+DsHidMini 新版DS3驅動：正在開發
 [移除 SCP Tookit Driver](https://vigem.org/projects/ScpToolkit/ScpToolkit-Removal-Guide/)
 BetterJoy
 ```
