@@ -48,6 +48,11 @@ HTPC_SS
 - DualShock 4 Controller
 - Xbox One S Controller
 - Wiimote Controller
+```
+驅動版本
+
+
+```
 
 藍牙設備
 - ASUS USB-BT21 []
