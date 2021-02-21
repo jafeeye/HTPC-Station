@@ -70,3 +70,6 @@ HTPCSS 設定
 - 桌面設定成全黑
 - Windows Boot 開機畫面置換
 - RetroBat 設定執行遊戲時隱藏
+
+MCE 遙控器
+http://www.byremote.com.au/
