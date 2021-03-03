@@ -86,3 +86,4 @@ HTPCSS 設定
 
 MCE 遙控器
 http://www.byremote.com.au/
+FLIRC USB
