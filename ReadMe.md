@@ -1,4 +1,4 @@
-# HTPCSS (HTPC System Station) v1.6.1
+# HTPC Station (HTPC Station) v1.6.1
 HTPCSS 為家中建置娛樂系統
 - 規格 
 - 顯示卡：MSI RX460/4G  已經清理好接觸接點 (2021/2)
@@ -87,3 +87,4 @@ HTPCSS 設定
 MCE 遙控器
 - Byremote HIP (complete HIP & plugin) v4.0.0.4 (18 Jun 2010)[官網](http://www.byremote.com.au/) [下載](https://github.com/jafeeye/HTPCSS/raw/master/Drivers/MCE%20Remote/HipInstallComplete_4004.EXE)
 - FLIRC USB
+- Girder
