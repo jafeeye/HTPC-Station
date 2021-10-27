@@ -88,3 +88,4 @@ MCE 遙控器
 - Byremote HIP (complete HIP & plugin) v4.0.0.4 (18 Jun 2010)[官網](http://www.byremote.com.au/) [下載](https://github.com/jafeeye/HTPCSS/raw/master/Drivers/MCE%20Remote/HipInstallComplete_4004.EXE)
 - FLIRC USB
 - Girder
+- EventGhost
