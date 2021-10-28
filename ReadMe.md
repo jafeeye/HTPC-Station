@@ -78,8 +78,8 @@ HDMI CEC
 - UHF 麥克風
 - HiRes Audio
 
-HTPCSS 設定
-- 開機 Shell 置換
+HTPC 系統相關設定
+- 開機 Shell 置換 ()
 - 桌面設定成全黑
 - Windows Boot 開機畫面置換
 - RetroBat 設定執行遊戲時隱藏
